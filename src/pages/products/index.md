@@ -1,7 +1,7 @@
 ---
 templateKey: product-page
-title: Our Coffee
-image: /img/jumbotron.jpg
+title: 'Raychelle Cassada Lohmann, M.S., LPC, GCDF'
+image: /img/raychelle.png
 heading: What we offer
 description: >-
   Kaldi is the ultimate spot for coffee lovers who want to learn about their
