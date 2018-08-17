@@ -1,7 +1,7 @@
 ---
 templateKey: product-page
 title: 'Raychelle Cassada Lohmann, M.S., LPC, GCDF'
-image: /img/raychelle.png
+image: /img/sunflower-1127174_1920.jpg
 heading: What we offer
 description: >-
   Kaldi is the ultimate spot for coffee lovers who want to learn about their
